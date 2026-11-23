@@ -1,0 +1,6 @@
+[Details]
+Icon = "assets/icon.png"
+Name = "Trimlet Chat"
+ID = "local.trimletchat"
+Version = "0.1.0"
+Build = 8

@@ -5,7 +5,7 @@ go 1.27.2
 require (
 	fyne.io/fyne/v2 v2.8.2
 	github.com/coder/websocket v1.8.14
-	github.com/trimlet/gui v0.1.0
+	github.com/trimlet/gui v0.2.0
 	golang.org/x/crypto v0.58.0
 )
 

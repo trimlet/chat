@@ -4,7 +4,7 @@ A written phone call, in a small window driven only by the keyboard: one makes a
 someone on any channel; the other has 5 minutes to join; they write to each other, text only; when
 one hangs up, nothing is kept.
 
-**Being built**, not released yet: start a chat, join it with the code, write (several lines, exact
+What it does: start a chat, join it with the code, write (several lines, exact
 text), a lost connection has 30 seconds to come back, the chat ends after 15 minutes of silence or 3
 hours, alerts without the message text when the window is behind.
 
@@ -14,6 +14,13 @@ hours, alerts without the message text when the window is behind.
 
 The crypto uses standard pieces (X25519, HKDF, HMAC, XChaCha20-Poly1305) and has not been reviewed by
 an expert yet.
+
+## Download
+
+The app for **macOS** (Mac with Apple chip: M1 and later) and **Windows** is on the
+[Releases](https://github.com/trimlet/chat/releases) page. It is a beta (0.x), and not signed yet: the first
+time, macOS asks to confirm (right click on the app → Open), Windows shows SmartScreen (More info →
+Run anyway).
 
 ## Build
 
